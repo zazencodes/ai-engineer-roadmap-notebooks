@@ -4,3 +4,4 @@ img
 mlruns
 results
 .ipynb_checkpoints
+.venv
