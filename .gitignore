@@ -4,4 +4,8 @@ img
 mlruns
 results
 .ipynb_checkpoints
-.venv
+.venv*
+.cursor
+.mcp.json
+CLAUDE.md
+.DS_Store
