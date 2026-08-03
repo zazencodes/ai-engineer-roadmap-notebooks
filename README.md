@@ -1,5 +1,14 @@
 # AI Engineer Roadmap
 
+Companion notebooks for the [AI Engineer Roadmap](https://zazencodes.com/courses/ai-engineer-roadmap) course — a foundational guide to AI Engineering covering 9 essential domains, from programming and mathematics through deep learning, data engineering, and AI deployment.
+
+Each notebook below pairs with a section of the course, so you can run the code yourself as you work through the material.
+
+## Learn More
+
+- **[ZazenCodes](https://zazencodes.com)** — courses, articles, and everything else I'm building. The full AI Engineer Roadmap course lives here.
+- **[ZazenCodes Agentic Coding Club](https://www.skool.com/zazencodes-agentic-coding-club-7823)** — my Skool community for devs building with coding agents. Learn how to use coding agents like the top 1% and become the AI expert on your team.
+
 ## Install Dependencies
 
 ```bash
